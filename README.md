@@ -1,21 +1,20 @@
- HEAD
 # card_app
 
-A new Flutter project.
+A simple Flutter project for practicing Flutter development.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a basic starting point to help you learn and experiment with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK installed ([Installation guide](https://flutter.dev/docs/get-started/install))
+- An IDE like VS Code or Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### How to Run
 
-# flutter-practice
-A simple Flutter practice project.
- a31ddb67692cbeed6d8e42a2ad3b2053be0acbf9
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/yourusername/card_app.git
+   cd card_app
